@@ -1,10 +1,10 @@
-#  Heart Disease Prediction using Decision Tree and Random Forest
+#  Heart Disease Risk Assessment
 
 ##  Project Overview
 
 This project predicts whether a patient has heart disease or not using Machine Learning. Two classification algorithms, **Decision Tree** and **Random Forest**, are used to train and evaluate the model. The performance of both models is compared based on accuracy, and the most important features affecting heart disease are identified using Feature Importance.
 
----
+
 
 ##  Project Objective
 
@@ -12,7 +12,7 @@ This project predicts whether a patient has heart disease or not using Machine L
 - Compare the performance of Decision Tree and Random Forest.
 - Identify the most important features responsible for heart disease prediction.
 
----
+
 
 ##  Dataset
 
@@ -38,7 +38,7 @@ This project predicts whether a patient has heart disease or not using Machine L
 - CA
 - Thal
 
----
+
 
 ##  Technologies Used
 
@@ -46,14 +46,14 @@ This project predicts whether a patient has heart disease or not using Machine L
 - Pandas
 - Scikit-learn
 
----
+
 
 ##  Machine Learning Algorithms
 
 - Decision Tree Classifier
 - Random Forest Classifier
 
----
+
 
 ##  Project Workflow
 
@@ -70,13 +70,13 @@ This project predicts whether a patient has heart disease or not using Machine L
 11. Find Feature Importance
 12. Compare Both Models
 
----
+
 
 ##  Evaluation Metric
 
 - Accuracy Score
 
----
+
 
 ##  Feature Importance
 
@@ -91,7 +91,7 @@ Example:
 | Cholesterol |   Medium    |
 | Resting BP  |   Medium    |
 
----
+
 
 ##  Expected Output
 
@@ -110,7 +110,7 @@ Random Forest Accuracy: 91%
 Patient has Heart Disease.
 ```
 
----
+
 
 ##  Project Structure
 
@@ -123,7 +123,7 @@ Heart-Disease-Prediction/
 ├── requirements.txt
 ```
 
----
+
 
 ##  Future Improvements
 
@@ -133,7 +133,7 @@ Heart-Disease-Prediction/
 - Build a Streamlit Web Application
 - Deploy the Model Online
 
----
+
 
 ##  Author
 
